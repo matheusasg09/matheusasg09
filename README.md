@@ -45,6 +45,3 @@ Outside of work, I'm a 29-year-old family man who treasures every moment with my
   <a href="https://www.youtube.com/channel/UCFHy30fHxEnhAI33-TCqfEg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://matheusasg09.com.br/"><img src="https://img.shields.io/badge/-My%20Website-%234285F4.svg?style=for-the-badge&logo=safari&logoColor=white" target="_blank"></a>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color0b64bf&height=120&section=footer"/>
