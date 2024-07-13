@@ -28,8 +28,9 @@ Outside of work, I'm a 29-year-old family man who treasures every moment with my
 ##
 
 <div> 
-    <a href="https://www.linkedin.com/in/matheusasg09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.tiktok.com/@matheusasg09"><img src="https://img.shields.io/badge/-TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusasg09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/matheusasg.09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@matheusasg09"><img src="https://img.shields.io/badge/-TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCFHy30fHxEnhAI33-TCqfEg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://matheusasg09.com.br/"><img src="https://img.shields.io/badge/-My%20Website-%234285F4.svg?style=for-the-badge&logo=safari&logoColor=white" target="_blank"></a>
 </div>
