@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b64bf&size=40&center=true&vCenter=true&width=1000&lines=SENIOR+SOFTWARE+ENGINEER)](https://git.io/typing-svg)
 
 ### About Me:
-With nearly 7 years of experience as a front-end developer, I've honed my ability to work effectively within a team, consistently adding value beyond just delivering high-quality code. I actively contribute to strategic discussions and analyses, ensuring our squad and company are aligned and thriving. 🚀
+With nearly 9 years of experience as a front-end developer, I've honed my ability to work effectively within a team, consistently adding value beyond just delivering high-quality code. I actively contribute to strategic discussions and analyses, ensuring our squad and company are aligned and thriving. 🚀
 
 As an Angular framework specialist, I keep myself up-to-date with the latest trends and best practices. This commitment enables me to produce robust, maintainable code that's well-prepared for future enhancements. 🌐
 
